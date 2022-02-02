@@ -15,3 +15,4 @@ def kw_args (**kwargs):
     print(type(kwargs))
 
 kw_args(first_key="My first name", next_key="My last name", age=28)
+
